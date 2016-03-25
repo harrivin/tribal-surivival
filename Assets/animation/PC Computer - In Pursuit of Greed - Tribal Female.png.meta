@@ -1,0 +1,953 @@
+fileFormatVersion: 2
+guid: d3215030f12204a4d99376bac4861d7a
+timeCreated: 1456164106
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - In Pursuit of Greed - Tribal Female_0
+    21300002: PC Computer - In Pursuit of Greed - Tribal Female_1
+    21300004: PC Computer - In Pursuit of Greed - Tribal Female_2
+    21300006: PC Computer - In Pursuit of Greed - Tribal Female_3
+    21300008: PC Computer - In Pursuit of Greed - Tribal Female_4
+    21300010: PC Computer - In Pursuit of Greed - Tribal Female_5
+    21300012: PC Computer - In Pursuit of Greed - Tribal Female_6
+    21300014: PC Computer - In Pursuit of Greed - Tribal Female_7
+    21300016: PC Computer - In Pursuit of Greed - Tribal Female_8
+    21300018: PC Computer - In Pursuit of Greed - Tribal Female_9
+    21300020: PC Computer - In Pursuit of Greed - Tribal Female_10
+    21300022: PC Computer - In Pursuit of Greed - Tribal Female_11
+    21300024: PC Computer - In Pursuit of Greed - Tribal Female_12
+    21300026: PC Computer - In Pursuit of Greed - Tribal Female_13
+    21300028: PC Computer - In Pursuit of Greed - Tribal Female_14
+    21300030: PC Computer - In Pursuit of Greed - Tribal Female_15
+    21300032: PC Computer - In Pursuit of Greed - Tribal Female_16
+    21300034: PC Computer - In Pursuit of Greed - Tribal Female_17
+    21300036: PC Computer - In Pursuit of Greed - Tribal Female_18
+    21300038: PC Computer - In Pursuit of Greed - Tribal Female_19
+    21300040: PC Computer - In Pursuit of Greed - Tribal Female_20
+    21300042: PC Computer - In Pursuit of Greed - Tribal Female_21
+    21300044: PC Computer - In Pursuit of Greed - Tribal Female_22
+    21300046: PC Computer - In Pursuit of Greed - Tribal Female_23
+    21300048: PC Computer - In Pursuit of Greed - Tribal Female_24
+    21300050: PC Computer - In Pursuit of Greed - Tribal Female_25
+    21300052: PC Computer - In Pursuit of Greed - Tribal Female_26
+    21300054: PC Computer - In Pursuit of Greed - Tribal Female_27
+    21300056: PC Computer - In Pursuit of Greed - Tribal Female_28
+    21300058: PC Computer - In Pursuit of Greed - Tribal Female_29
+    21300060: PC Computer - In Pursuit of Greed - Tribal Female_30
+    21300062: PC Computer - In Pursuit of Greed - Tribal Female_31
+    21300064: PC Computer - In Pursuit of Greed - Tribal Female_32
+    21300066: PC Computer - In Pursuit of Greed - Tribal Female_33
+    21300068: PC Computer - In Pursuit of Greed - Tribal Female_34
+    21300070: PC Computer - In Pursuit of Greed - Tribal Female_35
+    21300072: PC Computer - In Pursuit of Greed - Tribal Female_36
+    21300074: PC Computer - In Pursuit of Greed - Tribal Female_37
+    21300076: PC Computer - In Pursuit of Greed - Tribal Female_38
+    21300078: PC Computer - In Pursuit of Greed - Tribal Female_39
+    21300080: PC Computer - In Pursuit of Greed - Tribal Female_40
+    21300082: PC Computer - In Pursuit of Greed - Tribal Female_41
+    21300084: PC Computer - In Pursuit of Greed - Tribal Female_42
+    21300086: PC Computer - In Pursuit of Greed - Tribal Female_43
+    21300088: PC Computer - In Pursuit of Greed - Tribal Female_44
+    21300090: PC Computer - In Pursuit of Greed - Tribal Female_45
+    21300092: PC Computer - In Pursuit of Greed - Tribal Female_46
+    21300094: PC Computer - In Pursuit of Greed - Tribal Female_47
+    21300096: PC Computer - In Pursuit of Greed - Tribal Female_48
+    21300098: PC Computer - In Pursuit of Greed - Tribal Female_49
+    21300100: PC Computer - In Pursuit of Greed - Tribal Female_50
+    21300102: PC Computer - In Pursuit of Greed - Tribal Female_51
+    21300104: PC Computer - In Pursuit of Greed - Tribal Female_52
+    21300106: PC Computer - In Pursuit of Greed - Tribal Female_53
+    21300108: PC Computer - In Pursuit of Greed - Tribal Female_54
+    21300110: PC Computer - In Pursuit of Greed - Tribal Female_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875
+        width: 77
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 72.5}
+        - {x: -38.5, y: -72.5}
+        - {x: 38.5, y: -72.5}
+        - {x: 38.5, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 874
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 875
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 875
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_4
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 875
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_5
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 875
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_6
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 875
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_7
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 875
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 727
+        width: 78
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 72.5}
+        - {x: -39, y: -72.5}
+        - {x: 39, y: -72.5}
+        - {x: 39, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 728
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 727
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_11
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 731
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_12
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 730
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_13
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 730
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_14
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 730
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_15
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 730
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 72.5}
+        - {x: -39.5, y: -72.5}
+        - {x: 39.5, y: -72.5}
+        - {x: 39.5, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 581
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 584
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 585
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_20
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 586
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_21
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 585
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_22
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 585
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_23
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 585
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 78
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 72.5}
+        - {x: -39, y: -72.5}
+        - {x: 39, y: -72.5}
+        - {x: 39, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 436
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 440
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_27
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 441
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_28
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 440
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_29
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 440
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_30
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 435
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_31
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 440
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 77
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 72.5}
+        - {x: -38.5, y: -72.5}
+        - {x: 38.5, y: -72.5}
+        - {x: 38.5, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 292
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 294
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_35
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 292
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_36
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 294
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_37
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 295
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_38
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 294
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_39
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 290
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 77
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 72.5}
+        - {x: -38.5, y: -72.5}
+        - {x: 38.5, y: -72.5}
+        - {x: 38.5, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 150
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 151
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_43
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 150
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_44
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 150
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 149
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_46
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 149
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_47
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 146
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 77
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 72.5}
+        - {x: -38.5, y: -72.5}
+        - {x: 38.5, y: -72.5}
+        - {x: 38.5, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_49
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_50
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 5
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_51
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 5
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 6
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_53
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 4
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 72.5}
+        - {x: -83, y: -72.5}
+        - {x: 83, y: -72.5}
+        - {x: 83, y: 72.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_54
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 22
+        width: 166
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 50.5}
+        - {x: -83, y: -50.5}
+        - {x: 83, y: -50.5}
+        - {x: 83, y: 50.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Female_55
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 25
+        width: 174
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87, y: 50.5}
+        - {x: -87, y: -50.5}
+        - {x: 87, y: -50.5}
+        - {x: 87, y: 50.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

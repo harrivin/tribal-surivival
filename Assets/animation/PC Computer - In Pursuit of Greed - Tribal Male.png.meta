@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: 1eeb1ad853b464cdc811a4b10b907356
+labels:
+- Character
+timeCreated: 1456155770
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - In Pursuit of Greed - Tribal Male_0
+    21300002: PC Computer - In Pursuit of Greed - Tribal Male_1
+    21300004: PC Computer - In Pursuit of Greed - Tribal Male_2
+    21300006: PC Computer - In Pursuit of Greed - Tribal Male_3
+    21300008: PC Computer - In Pursuit of Greed - Tribal Male_4
+    21300010: PC Computer - In Pursuit of Greed - Tribal Male_5
+    21300012: PC Computer - In Pursuit of Greed - Tribal Male_6
+    21300014: PC Computer - In Pursuit of Greed - Tribal Male_7
+    21300016: PC Computer - In Pursuit of Greed - Tribal Male_8
+    21300018: PC Computer - In Pursuit of Greed - Tribal Male_9
+    21300020: PC Computer - In Pursuit of Greed - Tribal Male_10
+    21300022: PC Computer - In Pursuit of Greed - Tribal Male_11
+    21300024: PC Computer - In Pursuit of Greed - Tribal Male_12
+    21300026: PC Computer - In Pursuit of Greed - Tribal Male_13
+    21300028: PC Computer - In Pursuit of Greed - Tribal Male_14
+    21300030: PC Computer - In Pursuit of Greed - Tribal Male_15
+    21300032: PC Computer - In Pursuit of Greed - Tribal Male_16
+    21300034: PC Computer - In Pursuit of Greed - Tribal Male_17
+    21300036: PC Computer - In Pursuit of Greed - Tribal Male_18
+    21300038: PC Computer - In Pursuit of Greed - Tribal Male_19
+    21300040: PC Computer - In Pursuit of Greed - Tribal Male_20
+    21300042: PC Computer - In Pursuit of Greed - Tribal Male_21
+    21300044: PC Computer - In Pursuit of Greed - Tribal Male_22
+    21300046: PC Computer - In Pursuit of Greed - Tribal Male_23
+    21300048: PC Computer - In Pursuit of Greed - Tribal Male_24
+    21300050: PC Computer - In Pursuit of Greed - Tribal Male_25
+    21300052: PC Computer - In Pursuit of Greed - Tribal Male_26
+    21300054: PC Computer - In Pursuit of Greed - Tribal Male_27
+    21300056: PC Computer - In Pursuit of Greed - Tribal Male_28
+    21300058: PC Computer - In Pursuit of Greed - Tribal Male_29
+    21300060: PC Computer - In Pursuit of Greed - Tribal Male_30
+    21300062: PC Computer - In Pursuit of Greed - Tribal Male_31
+    21300064: PC Computer - In Pursuit of Greed - Tribal Male_32
+    21300066: PC Computer - In Pursuit of Greed - Tribal Male_33
+    21300068: PC Computer - In Pursuit of Greed - Tribal Male_34
+    21300070: PC Computer - In Pursuit of Greed - Tribal Male_35
+    21300072: PC Computer - In Pursuit of Greed - Tribal Male_36
+    21300074: PC Computer - In Pursuit of Greed - Tribal Male_37
+    21300076: PC Computer - In Pursuit of Greed - Tribal Male_38
+    21300078: PC Computer - In Pursuit of Greed - Tribal Male_39
+    21300080: PC Computer - In Pursuit of Greed - Tribal Male_40
+    21300082: PC Computer - In Pursuit of Greed - Tribal Male_41
+    21300084: PC Computer - In Pursuit of Greed - Tribal Male_42
+    21300086: PC Computer - In Pursuit of Greed - Tribal Male_43
+    21300088: PC Computer - In Pursuit of Greed - Tribal Male_44
+    21300090: PC Computer - In Pursuit of Greed - Tribal Male_45
+    21300092: PC Computer - In Pursuit of Greed - Tribal Male_46
+    21300094: PC Computer - In Pursuit of Greed - Tribal Male_47
+    21300096: PC Computer - In Pursuit of Greed - Tribal Male_48
+    21300098: PC Computer - In Pursuit of Greed - Tribal Male_49
+    21300100: PC Computer - In Pursuit of Greed - Tribal Male_50
+    21300102: PC Computer - In Pursuit of Greed - Tribal Male_51
+    21300104: PC Computer - In Pursuit of Greed - Tribal Male_52
+    21300106: PC Computer - In Pursuit of Greed - Tribal Male_53
+    21300108: PC Computer - In Pursuit of Greed - Tribal Male_54
+    21300110: PC Computer - In Pursuit of Greed - Tribal Male_55
+    21300112: PC Computer - In Pursuit of Greed - Tribal Male_56
+    21300114: PC Computer - In Pursuit of Greed - Tribal Male_57
+    21300116: PC Computer - In Pursuit of Greed - Tribal Male_58
+    21300118: PC Computer - In Pursuit of Greed - Tribal Male_59
+    21300120: PC Computer - In Pursuit of Greed - Tribal Male_60
+    21300122: PC Computer - In Pursuit of Greed - Tribal Male_61
+    21300124: PC Computer - In Pursuit of Greed - Tribal Male_62
+    21300126: PC Computer - In Pursuit of Greed - Tribal Male_63
+    21300128: PC Computer - In Pursuit of Greed - Tribal Male_64
+    21300130: PC Computer - In Pursuit of Greed - Tribal Male_65
+    21300132: PC Computer - In Pursuit of Greed - Tribal Male_66
+    21300134: PC Computer - In Pursuit of Greed - Tribal Male_67
+    21300136: PC Computer - In Pursuit of Greed - Tribal Male_68
+    21300138: PC Computer - In Pursuit of Greed - Tribal Male_69
+    21300140: PC Computer - In Pursuit of Greed - Tribal Male_70
+    21300142: PC Computer - In Pursuit of Greed - Tribal Male_71
+    21300144: PC Computer - In Pursuit of Greed - Tribal Male_72
+    21300146: PC Computer - In Pursuit of Greed - Tribal Male_73
+    21300148: PC Computer - In Pursuit of Greed - Tribal Male_74
+    21300150: PC Computer - In Pursuit of Greed - Tribal Male_75
+    21300152: PC Computer - In Pursuit of Greed - Tribal Male_76
+    21300154: PC Computer - In Pursuit of Greed - Tribal Male_77
+    21300156: PC Computer - In Pursuit of Greed - Tribal Male_78
+    21300158: PC Computer - In Pursuit of Greed - Tribal Male_79
+    21300160: PC Computer - In Pursuit of Greed - Tribal Male_80
+    21300162: PC Computer - In Pursuit of Greed - Tribal Male_81
+    21300164: PC Computer - In Pursuit of Greed - Tribal Male_82
+    21300166: PC Computer - In Pursuit of Greed - Tribal Male_83
+    21300168: PC Computer - In Pursuit of Greed - Tribal Male_84
+    21300170: PC Computer - In Pursuit of Greed - Tribal Male_85
+    21300172: PC Computer - In Pursuit of Greed - Tribal Male_86
+    21300174: PC Computer - In Pursuit of Greed - Tribal Male_87
+    21300176: PC Computer - In Pursuit of Greed - Tribal Male_88
+    21300178: PC Computer - In Pursuit of Greed - Tribal Male_89
+    21300180: PC Computer - In Pursuit of Greed - Tribal Male_90
+    21300182: PC Computer - In Pursuit of Greed - Tribal Male_91
+    21300184: PC Computer - In Pursuit of Greed - Tribal Male_92
+    21300186: PC Computer - In Pursuit of Greed - Tribal Male_93
+    21300188: PC Computer - In Pursuit of Greed - Tribal Male_94
+    21300190: PC Computer - In Pursuit of Greed - Tribal Male_95
+    21300192: PC Computer - In Pursuit of Greed - Tribal Male_96
+    21300194: PC Computer - In Pursuit of Greed - Tribal Male_97
+    21300196: PC Computer - In Pursuit of Greed - Tribal Male_98
+    21300198: PC Computer - In Pursuit of Greed - Tribal Male_99
+    21300200: PC Computer - In Pursuit of Greed - Tribal Male_100
+    21300202: PC Computer - In Pursuit of Greed - Tribal Male_101
+    21300204: PC Computer - In Pursuit of Greed - Tribal Male_102
+    21300206: PC Computer - In Pursuit of Greed - Tribal Male_103
+    21300208: PC Computer - In Pursuit of Greed - Tribal Male_104
+    21300210: PC Computer - In Pursuit of Greed - Tribal Male_105
+    21300212: PC Computer - In Pursuit of Greed - Tribal Male_106
+    21300214: PC Computer - In Pursuit of Greed - Tribal Male_107
+    21300216: PC Computer - In Pursuit of Greed - Tribal Male_108
+    21300218: PC Computer - In Pursuit of Greed - Tribal Male_109
+    21300220: PC Computer - In Pursuit of Greed - Tribal Male_110
+    21300222: PC Computer - In Pursuit of Greed - Tribal Male_111
+    21300224: PC Computer - In Pursuit of Greed - Tribal Male_112
+    21300226: PC Computer - In Pursuit of Greed - Tribal Male_113
+    21300228: PC Computer - In Pursuit of Greed - Tribal Male_114
+    21300230: PC Computer - In Pursuit of Greed - Tribal Male_115
+    21300232: PC Computer - In Pursuit of Greed - Tribal Male_116
+    21300234: PC Computer - In Pursuit of Greed - Tribal Male_117
+    21300236: PC Computer - In Pursuit of Greed - Tribal Male_118
+    21300238: PC Computer - In Pursuit of Greed - Tribal Male_119
+    21300240: PC Computer - In Pursuit of Greed - Tribal Male_120
+    21300242: PC Computer - In Pursuit of Greed - Tribal Male_121
+    21300244: PC Computer - In Pursuit of Greed - Tribal Male_122
+    21300246: PC Computer - In Pursuit of Greed - Tribal Male_123
+    21300248: PC Computer - In Pursuit of Greed - Tribal Male_124
+    21300250: PC Computer - In Pursuit of Greed - Tribal Male_125
+    21300252: PC Computer - In Pursuit of Greed - Tribal Male_126
+    21300254: PC Computer - In Pursuit of Greed - Tribal Male_127
+    21300256: PC Computer - In Pursuit of Greed - Tribal Male_128
+    21300258: PC Computer - In Pursuit of Greed - Tribal Male_129
+    21300260: PC Computer - In Pursuit of Greed - Tribal Male_130
+    21300262: PC Computer - In Pursuit of Greed - Tribal Male_131
+    21300264: PC Computer - In Pursuit of Greed - Tribal Male_132
+    21300266: PC Computer - In Pursuit of Greed - Tribal Male_133
+    21300268: PC Computer - In Pursuit of Greed - Tribal Male_134
+    21300270: PC Computer - In Pursuit of Greed - Tribal Male_135
+    21300272: PC Computer - In Pursuit of Greed - Tribal Male_136
+    21300274: PC Computer - In Pursuit of Greed - Tribal Male_137
+    21300276: PC Computer - In Pursuit of Greed - Tribal Male_138
+    21300278: PC Computer - In Pursuit of Greed - Tribal Male_139
+    21300280: PC Computer - In Pursuit of Greed - Tribal Male_140
+    21300282: PC Computer - In Pursuit of Greed - Tribal Male_141
+    21300284: PC Computer - In Pursuit of Greed - Tribal Male_142
+    21300286: PC Computer - In Pursuit of Greed - Tribal Male_143
+    21300288: PC Computer - In Pursuit of Greed - Tribal Male_144
+    21300290: PC Computer - In Pursuit of Greed - Tribal Male_145
+    21300292: PC Computer - In Pursuit of Greed - Tribal Male_146
+    21300294: PC Computer - In Pursuit of Greed - Tribal Male_147
+    21300296: PC Computer - In Pursuit of Greed - Tribal Male_148
+    21300298: PC Computer - In Pursuit of Greed - Tribal Male_149
+    21300300: PC Computer - In Pursuit of Greed - Tribal Male_150
+    21300302: PC Computer - In Pursuit of Greed - Tribal Male_151
+    21300304: PC Computer - In Pursuit of Greed - Tribal Male_152
+    21300306: PC Computer - In Pursuit of Greed - Tribal Male_153
+    21300308: PC Computer - In Pursuit of Greed - Tribal Male_154
+    21300310: PC Computer - In Pursuit of Greed - Tribal Male_155
+    21300312: PC Computer - In Pursuit of Greed - Tribal Male_156
+    21300314: PC Computer - In Pursuit of Greed - Tribal Male_157
+    21300316: PC Computer - In Pursuit of Greed - Tribal Male_158
+    21300318: PC Computer - In Pursuit of Greed - Tribal Male_159
+    21300320: PC Computer - In Pursuit of Greed - Tribal Male_160
+    21300322: PC Computer - In Pursuit of Greed - Tribal Male_161
+    21300324: PC Computer - In Pursuit of Greed - Tribal Male_162
+    21300326: PC Computer - In Pursuit of Greed - Tribal Male_163
+    21300328: PC Computer - In Pursuit of Greed - Tribal Male_164
+    21300330: PC Computer - In Pursuit of Greed - Tribal Male_165
+    21300332: PC Computer - In Pursuit of Greed - Tribal Male_166
+    21300334: PC Computer - In Pursuit of Greed - Tribal Male_167
+    21300336: PC Computer - In Pursuit of Greed - Tribal Male_168
+    21300338: PC Computer - In Pursuit of Greed - Tribal Male_169
+    21300340: PC Computer - In Pursuit of Greed - Tribal Male_170
+    21300342: PC Computer - In Pursuit of Greed - Tribal Male_171
+    21300344: PC Computer - In Pursuit of Greed - Tribal Male_172
+    21300346: PC Computer - In Pursuit of Greed - Tribal Male_173
+    21300348: PC Computer - In Pursuit of Greed - Tribal Male_174
+    21300350: PC Computer - In Pursuit of Greed - Tribal Male_175
+    21300352: PC Computer - In Pursuit of Greed - Tribal Male_176
+    21300354: PC Computer - In Pursuit of Greed - Tribal Male_177
+    21300356: PC Computer - In Pursuit of Greed - Tribal Male_178
+    21300358: PC Computer - In Pursuit of Greed - Tribal Male_179
+    21300360: PC Computer - In Pursuit of Greed - Tribal Male_180
+    21300362: PC Computer - In Pursuit of Greed - Tribal Male_181
+    21300364: PC Computer - In Pursuit of Greed - Tribal Male_182
+    21300366: PC Computer - In Pursuit of Greed - Tribal Male_183
+    21300368: PC Computer - In Pursuit of Greed - Tribal Male_184
+    21300370: PC Computer - In Pursuit of Greed - Tribal Male_185
+    21300372: PC Computer - In Pursuit of Greed - Tribal Male_186
+    21300374: PC Computer - In Pursuit of Greed - Tribal Male_187
+    21300376: PC Computer - In Pursuit of Greed - Tribal Male_188
+    21300378: PC Computer - In Pursuit of Greed - Tribal Male_189
+    21300380: PC Computer - In Pursuit of Greed - Tribal Male_190
+    21300382: PC Computer - In Pursuit of Greed - Tribal Male_191
+    21300384: PC Computer - In Pursuit of Greed - Tribal Male_192
+    21300386: PC Computer - In Pursuit of Greed - Tribal Male_193
+    21300388: PC Computer - In Pursuit of Greed - Tribal Male_194
+    21300390: PC Computer - In Pursuit of Greed - Tribal Male_195
+    21300392: PC Computer - In Pursuit of Greed - Tribal Male_196
+    21300394: PC Computer - In Pursuit of Greed - Tribal Male_197
+    21300396: PC Computer - In Pursuit of Greed - Tribal Male_198
+    21300398: PC Computer - In Pursuit of Greed - Tribal Male_199
+    21300400: PC Computer - In Pursuit of Greed - Tribal Male_200
+    21300402: PC Computer - In Pursuit of Greed - Tribal Male_201
+    21300404: PC Computer - In Pursuit of Greed - Tribal Male_202
+    21300406: PC Computer - In Pursuit of Greed - Tribal Male_203
+    21300408: PC Computer - In Pursuit of Greed - Tribal Male_204
+    21300410: PC Computer - In Pursuit of Greed - Tribal Male_205
+    21300412: PC Computer - In Pursuit of Greed - Tribal Male_206
+    21300414: PC Computer - In Pursuit of Greed - Tribal Male_207
+    21300416: PC Computer - In Pursuit of Greed - Tribal Male_208
+    21300418: PC Computer - In Pursuit of Greed - Tribal Male_209
+    21300420: PC Computer - In Pursuit of Greed - Tribal Male_210
+    21300422: PC Computer - In Pursuit of Greed - Tribal Male_211
+    21300424: PC Computer - In Pursuit of Greed - Tribal Male_212
+    21300426: PC Computer - In Pursuit of Greed - Tribal Male_213
+    21300428: PC Computer - In Pursuit of Greed - Tribal Male_214
+    21300430: PC Computer - In Pursuit of Greed - Tribal Male_215
+    21300432: PC Computer - In Pursuit of Greed - Tribal Male_216
+    21300434: PC Computer - In Pursuit of Greed - Tribal Male_217
+    21300436: PC Computer - In Pursuit of Greed - Tribal Male_218
+    21300438: PC Computer - In Pursuit of Greed - Tribal Male_219
+    21300440: PC Computer - In Pursuit of Greed - Tribal Male_220
+    21300442: PC Computer - In Pursuit of Greed - Tribal Male_221
+    21300444: PC Computer - In Pursuit of Greed - Tribal Male_222
+    21300446: PC Computer - In Pursuit of Greed - Tribal Male_223
+    21300448: PC Computer - In Pursuit of Greed - Tribal Male_224
+    21300450: PC Computer - In Pursuit of Greed - Tribal Male_225
+    21300452: PC Computer - In Pursuit of Greed - Tribal Male_226
+    21300454: PC Computer - In Pursuit of Greed - Tribal Male_227
+    21300456: PC Computer - In Pursuit of Greed - Tribal Male_228
+    21300458: PC Computer - In Pursuit of Greed - Tribal Male_229
+    21300460: PC Computer - In Pursuit of Greed - Tribal Male_230
+    21300462: PC Computer - In Pursuit of Greed - Tribal Male_231
+    21300464: PC Computer - In Pursuit of Greed - Tribal Male_232
+    21300466: PC Computer - In Pursuit of Greed - Tribal Male_233
+    21300468: PC Computer - In Pursuit of Greed - Tribal Male_234
+    21300470: PC Computer - In Pursuit of Greed - Tribal Male_235
+    21300472: PC Computer - In Pursuit of Greed - Tribal Male_236
+    21300474: PC Computer - In Pursuit of Greed - Tribal Male_237
+    21300476: PC Computer - In Pursuit of Greed - Tribal Male_238
+    21300478: PC Computer - In Pursuit of Greed - Tribal Male_239
+    21300480: PC Computer - In Pursuit of Greed - Tribal Male_240
+    21300482: PC Computer - In Pursuit of Greed - Tribal Male_241
+    21300484: PC Computer - In Pursuit of Greed - Tribal Male_242
+    21300486: PC Computer - In Pursuit of Greed - Tribal Male_243
+    21300488: PC Computer - In Pursuit of Greed - Tribal Male_244
+    21300490: PC Computer - In Pursuit of Greed - Tribal Male_245
+    21300492: PC Computer - In Pursuit of Greed - Tribal Male_246
+    21300494: PC Computer - In Pursuit of Greed - Tribal Male_247
+    21300496: PC Computer - In Pursuit of Greed - Tribal Male_248
+    21300498: PC Computer - In Pursuit of Greed - Tribal Male_249
+    21300500: PC Computer - In Pursuit of Greed - Tribal Male_250
+    21300502: PC Computer - In Pursuit of Greed - Tribal Male_251
+    21300504: PC Computer - In Pursuit of Greed - Tribal Male_252
+    21300506: PC Computer - In Pursuit of Greed - Tribal Male_253
+    21300508: PC Computer - In Pursuit of Greed - Tribal Male_254
+    21300510: PC Computer - In Pursuit of Greed - Tribal Male_255
+    21300512: PC Computer - In Pursuit of Greed - Tribal Male_256
+    21300514: PC Computer - In Pursuit of Greed - Tribal Male_257
+    21300516: PC Computer - In Pursuit of Greed - Tribal Male_258
+    21300518: PC Computer - In Pursuit of Greed - Tribal Male_259
+    21300520: PC Computer - In Pursuit of Greed - Tribal Male_260
+    21300522: PC Computer - In Pursuit of Greed - Tribal Male_261
+    21300524: PC Computer - In Pursuit of Greed - Tribal Male_262
+    21300526: PC Computer - In Pursuit of Greed - Tribal Male_263
+    21300528: PC Computer - In Pursuit of Greed - Tribal Male_264
+    21300530: PC Computer - In Pursuit of Greed - Tribal Male_265
+    21300532: PC Computer - In Pursuit of Greed - Tribal Male_266
+    21300534: PC Computer - In Pursuit of Greed - Tribal Male_267
+    21300536: PC Computer - In Pursuit of Greed - Tribal Male_268
+    21300538: PC Computer - In Pursuit of Greed - Tribal Male_269
+    21300540: PC Computer - In Pursuit of Greed - Tribal Male_270
+    21300542: PC Computer - In Pursuit of Greed - Tribal Male_271
+    21300544: PC Computer - In Pursuit of Greed - Tribal Male_272
+    21300546: PC Computer - In Pursuit of Greed - Tribal Male_273
+    21300548: PC Computer - In Pursuit of Greed - Tribal Male_274
+    21300550: PC Computer - In Pursuit of Greed - Tribal Male_275
+    21300552: PC Computer - In Pursuit of Greed - Tribal Male_276
+    21300554: PC Computer - In Pursuit of Greed - Tribal Male_277
+    21300556: PC Computer - In Pursuit of Greed - Tribal Male_278
+    21300558: PC Computer - In Pursuit of Greed - Tribal Male_279
+    21300560: PC Computer - In Pursuit of Greed - Tribal Male_280
+    21300562: PC Computer - In Pursuit of Greed - Tribal Male_281
+    21300564: PC Computer - In Pursuit of Greed - Tribal Male_282
+    21300566: PC Computer - In Pursuit of Greed - Tribal Male_283
+    21300568: PC Computer - In Pursuit of Greed - Tribal Male_284
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 84
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 68}
+        - {x: -42, y: -68}
+        - {x: 42, y: -68}
+        - {x: 42, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 826
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 826
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 826
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_4
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 826
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_5
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 826
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_6
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 826
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_7
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 826
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 85
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 68}
+        - {x: -42.5, y: -68}
+        - {x: 42.5, y: -68}
+        - {x: 42.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 687
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 690
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_11
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 691
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 691
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_13
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 691
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_14
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 691
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_15
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 691
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 111
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: 68}
+        - {x: -55.5, y: -68}
+        - {x: 55.5, y: -68}
+        - {x: 55.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 549
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 551
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 550
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_20
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 551
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_21
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 551
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_22
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 550
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_23
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 550
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 113
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 68}
+        - {x: -56.5, y: -68}
+        - {x: 56.5, y: -68}
+        - {x: 56.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 410
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 410
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_27
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 410
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_28
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 410
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_29
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 410
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_30
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 410
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_31
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 410
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 112
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 68}
+        - {x: -56, y: -68}
+        - {x: 56, y: -68}
+        - {x: 56, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 273
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_34
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 274
+        width: 166
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 68}
+        - {x: -83, y: -68}
+        - {x: 83, y: -68}
+        - {x: 83, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_35
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 274
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_36
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 273
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_37
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 271
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_38
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 272
+        width: 170
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 68}
+        - {x: -85, y: -68}
+        - {x: 85, y: -68}
+        - {x: 85, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_39
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 272
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: 68}
+        - {x: -57.5, y: -68}
+        - {x: 57.5, y: -68}
+        - {x: 57.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 138
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 140
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_43
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 138
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_44
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 136
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_45
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 136
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_46
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 136
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_47
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 137
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: 68}
+        - {x: -57.5, y: -68}
+        - {x: 57.5, y: -68}
+        - {x: 57.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_50
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 4
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_51
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_52
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 4
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 68}
+        - {x: -77.5, y: -68}
+        - {x: 77.5, y: -68}
+        - {x: 77.5, y: 68}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_53
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 19
+        width: 155
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 56}
+        - {x: -77.5, y: -56}
+        - {x: 77.5, y: -56}
+        - {x: 77.5, y: 56}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_54
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 24
+        width: 155
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 52.5}
+        - {x: -77.5, y: -52.5}
+        - {x: 77.5, y: -52.5}
+        - {x: 77.5, y: 52.5}
+    - name: PC Computer - In Pursuit of Greed - Tribal Male_55
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 24
+        width: 162
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 53.5}
+        - {x: -81, y: -53.5}
+        - {x: 81, y: -53.5}
+        - {x: 81, y: 53.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: india
+  assetBundleVariant: indiad
