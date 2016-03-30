@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F1918E7B-5836-0FB2-8D3F-6888151D0410}") = "tribal-surivival", "Assembly-CSharp.csproj", "{17AEE694-9D41-B490-3507-00792296E6CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AEE694-9D41-B490-3507-00792296E6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AEE694-9D41-B490-3507-00792296E6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AEE694-9D41-B490-3507-00792296E6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AEE694-9D41-B490-3507-00792296E6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
